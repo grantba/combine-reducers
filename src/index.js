@@ -13,3 +13,6 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
+
+// created seperate reducer files 
+// no longer using manageAuthorsandBooks.js file
